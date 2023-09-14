@@ -1,0 +1,1 @@
+//  Contiene componentes de presentación, que son componentes que no tienen lógica de negocio, solo se encargan de mostrar información

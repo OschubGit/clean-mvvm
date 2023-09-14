@@ -1,0 +1,1 @@
+// En esta carpeta se implementa la lógica de acceso a la API externa.

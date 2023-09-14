@@ -1,0 +1,1 @@
+// Contiene casos de uso que encapsulan la lógica de negocios de tu aplicación.

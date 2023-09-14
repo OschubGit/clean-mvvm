@@ -1,0 +1,1 @@
+// Esta carpeta contiene las entidades de dominio, que representan los objetos de datos básicos de tu aplicación.
